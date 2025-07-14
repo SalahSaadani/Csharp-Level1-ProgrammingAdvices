@@ -1,0 +1,10 @@
+D:\TOOL STRIP\bin\Debug\TOOL STRIP.exe.config
+D:\TOOL STRIP\bin\Debug\TOOL STRIP.exe
+D:\TOOL STRIP\bin\Debug\TOOL STRIP.pdb
+D:\TOOL STRIP\obj\Debug\TOOL STRIP.csproj.AssemblyReference.cache
+D:\TOOL STRIP\obj\Debug\TOOL_STRIP.frmMain.resources
+D:\TOOL STRIP\obj\Debug\TOOL_STRIP.Properties.Resources.resources
+D:\TOOL STRIP\obj\Debug\TOOL STRIP.csproj.GenerateResource.cache
+D:\TOOL STRIP\obj\Debug\TOOL STRIP.csproj.CoreCompileInputs.cache
+D:\TOOL STRIP\obj\Debug\TOOL STRIP.exe
+D:\TOOL STRIP\obj\Debug\TOOL STRIP.pdb
