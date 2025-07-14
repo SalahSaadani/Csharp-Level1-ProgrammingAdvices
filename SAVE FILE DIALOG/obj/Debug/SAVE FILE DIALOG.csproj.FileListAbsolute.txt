@@ -1,0 +1,11 @@
+D:\SAVE FILE DIALOG\bin\Debug\SAVE FILE DIALOG.exe.config
+D:\SAVE FILE DIALOG\bin\Debug\SAVE FILE DIALOG.exe
+D:\SAVE FILE DIALOG\bin\Debug\SAVE FILE DIALOG.pdb
+D:\SAVE FILE DIALOG\obj\Debug\SAVE FILE DIALOG.csproj.AssemblyReference.cache
+D:\SAVE FILE DIALOG\obj\Debug\SAVE_FILE_DIALOG.Form1.resources
+D:\SAVE FILE DIALOG\obj\Debug\SAVE_FILE_DIALOG.Properties.Resources.resources
+D:\SAVE FILE DIALOG\obj\Debug\SAVE FILE DIALOG.csproj.GenerateResource.cache
+D:\SAVE FILE DIALOG\obj\Debug\SAVE FILE DIALOG.csproj.CoreCompileInputs.cache
+D:\SAVE FILE DIALOG\obj\Debug\SAVE FILE DIALOG.exe
+D:\SAVE FILE DIALOG\obj\Debug\SAVE FILE DIALOG.pdb
+D:\SAVE FILE DIALOG\obj\Debug\SAVE FILE DIALOG.exe.config
