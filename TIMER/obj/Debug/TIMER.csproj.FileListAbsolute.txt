@@ -1,0 +1,10 @@
+D:\TIMER\bin\Debug\TIMER.exe.config
+D:\TIMER\bin\Debug\TIMER.exe
+D:\TIMER\bin\Debug\TIMER.pdb
+D:\TIMER\obj\Debug\TIMER.csproj.AssemblyReference.cache
+D:\TIMER\obj\Debug\TIMER.Form1.resources
+D:\TIMER\obj\Debug\TIMER.Properties.Resources.resources
+D:\TIMER\obj\Debug\TIMER.csproj.GenerateResource.cache
+D:\TIMER\obj\Debug\TIMER.csproj.CoreCompileInputs.cache
+D:\TIMER\obj\Debug\TIMER.exe
+D:\TIMER\obj\Debug\TIMER.pdb
