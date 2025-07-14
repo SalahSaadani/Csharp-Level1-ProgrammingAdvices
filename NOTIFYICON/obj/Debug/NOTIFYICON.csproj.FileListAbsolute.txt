@@ -1,0 +1,11 @@
+D:\NOTIFYICON\bin\Debug\NOTIFYICON.exe.config
+D:\NOTIFYICON\bin\Debug\NOTIFYICON.exe
+D:\NOTIFYICON\bin\Debug\NOTIFYICON.pdb
+D:\NOTIFYICON\obj\Debug\NOTIFYICON.csproj.AssemblyReference.cache
+D:\NOTIFYICON\obj\Debug\NOTIFYICON.Form1.resources
+D:\NOTIFYICON\obj\Debug\NOTIFYICON.Properties.Resources.resources
+D:\NOTIFYICON\obj\Debug\NOTIFYICON.csproj.GenerateResource.cache
+D:\NOTIFYICON\obj\Debug\NOTIFYICON.csproj.CoreCompileInputs.cache
+D:\NOTIFYICON\obj\Debug\NOTIFYICON.exe
+D:\NOTIFYICON\obj\Debug\NOTIFYICON.pdb
+D:\NOTIFYICON\obj\Debug\NOTIFYICON.exe.config
