@@ -1,0 +1,10 @@
+D:\Visuel Studio Problems\C# CODE\TRACK BAR\bin\Debug\TRACK BAR.exe.config
+D:\Visuel Studio Problems\C# CODE\TRACK BAR\bin\Debug\TRACK BAR.exe
+D:\Visuel Studio Problems\C# CODE\TRACK BAR\bin\Debug\TRACK BAR.pdb
+D:\Visuel Studio Problems\C# CODE\TRACK BAR\obj\Debug\TRACK BAR.csproj.AssemblyReference.cache
+D:\Visuel Studio Problems\C# CODE\TRACK BAR\obj\Debug\TRACK_BAR.Form1.resources
+D:\Visuel Studio Problems\C# CODE\TRACK BAR\obj\Debug\TRACK_BAR.Properties.Resources.resources
+D:\Visuel Studio Problems\C# CODE\TRACK BAR\obj\Debug\TRACK BAR.csproj.GenerateResource.cache
+D:\Visuel Studio Problems\C# CODE\TRACK BAR\obj\Debug\TRACK BAR.csproj.CoreCompileInputs.cache
+D:\Visuel Studio Problems\C# CODE\TRACK BAR\obj\Debug\TRACK BAR.exe
+D:\Visuel Studio Problems\C# CODE\TRACK BAR\obj\Debug\TRACK BAR.pdb

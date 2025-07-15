@@ -1,0 +1,10 @@
+D:\Visuel Studio Problems\C# CODE\PROGRESS BAR\bin\Debug\PROGRESS BAR.exe.config
+D:\Visuel Studio Problems\C# CODE\PROGRESS BAR\bin\Debug\PROGRESS BAR.exe
+D:\Visuel Studio Problems\C# CODE\PROGRESS BAR\bin\Debug\PROGRESS BAR.pdb
+D:\Visuel Studio Problems\C# CODE\PROGRESS BAR\obj\Debug\PROGRESS BAR.csproj.AssemblyReference.cache
+D:\Visuel Studio Problems\C# CODE\PROGRESS BAR\obj\Debug\PROGRESS_BAR.Form1.resources
+D:\Visuel Studio Problems\C# CODE\PROGRESS BAR\obj\Debug\PROGRESS_BAR.Properties.Resources.resources
+D:\Visuel Studio Problems\C# CODE\PROGRESS BAR\obj\Debug\PROGRESS BAR.csproj.GenerateResource.cache
+D:\Visuel Studio Problems\C# CODE\PROGRESS BAR\obj\Debug\PROGRESS BAR.csproj.CoreCompileInputs.cache
+D:\Visuel Studio Problems\C# CODE\PROGRESS BAR\obj\Debug\PROGRESS BAR.exe
+D:\Visuel Studio Problems\C# CODE\PROGRESS BAR\obj\Debug\PROGRESS BAR.pdb
