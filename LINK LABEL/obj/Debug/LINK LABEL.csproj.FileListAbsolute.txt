@@ -1,0 +1,10 @@
+D:\Visuel Studio Problems\C# CODE\LINK LABEL\bin\Debug\LINK LABEL.exe.config
+D:\Visuel Studio Problems\C# CODE\LINK LABEL\bin\Debug\LINK LABEL.exe
+D:\Visuel Studio Problems\C# CODE\LINK LABEL\bin\Debug\LINK LABEL.pdb
+D:\Visuel Studio Problems\C# CODE\LINK LABEL\obj\Debug\LINK LABEL.csproj.AssemblyReference.cache
+D:\Visuel Studio Problems\C# CODE\LINK LABEL\obj\Debug\LINK_LABEL.Form1.resources
+D:\Visuel Studio Problems\C# CODE\LINK LABEL\obj\Debug\LINK_LABEL.Properties.Resources.resources
+D:\Visuel Studio Problems\C# CODE\LINK LABEL\obj\Debug\LINK LABEL.csproj.GenerateResource.cache
+D:\Visuel Studio Problems\C# CODE\LINK LABEL\obj\Debug\LINK LABEL.csproj.CoreCompileInputs.cache
+D:\Visuel Studio Problems\C# CODE\LINK LABEL\obj\Debug\LINK LABEL.exe
+D:\Visuel Studio Problems\C# CODE\LINK LABEL\obj\Debug\LINK LABEL.pdb
