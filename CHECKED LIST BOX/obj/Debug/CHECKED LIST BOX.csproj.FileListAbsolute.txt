@@ -1,0 +1,10 @@
+D:\Visuel Studio Problems\C# CODE\CHECKED LIST BOX\bin\Debug\CHECKED LIST BOX.exe.config
+D:\Visuel Studio Problems\C# CODE\CHECKED LIST BOX\bin\Debug\CHECKED LIST BOX.exe
+D:\Visuel Studio Problems\C# CODE\CHECKED LIST BOX\bin\Debug\CHECKED LIST BOX.pdb
+D:\Visuel Studio Problems\C# CODE\CHECKED LIST BOX\obj\Debug\CHECKED LIST BOX.csproj.AssemblyReference.cache
+D:\Visuel Studio Problems\C# CODE\CHECKED LIST BOX\obj\Debug\CHECKED_LIST_BOX.Form1.resources
+D:\Visuel Studio Problems\C# CODE\CHECKED LIST BOX\obj\Debug\CHECKED_LIST_BOX.Properties.Resources.resources
+D:\Visuel Studio Problems\C# CODE\CHECKED LIST BOX\obj\Debug\CHECKED LIST BOX.csproj.GenerateResource.cache
+D:\Visuel Studio Problems\C# CODE\CHECKED LIST BOX\obj\Debug\CHECKED LIST BOX.csproj.CoreCompileInputs.cache
+D:\Visuel Studio Problems\C# CODE\CHECKED LIST BOX\obj\Debug\CHECKED LIST BOX.exe
+D:\Visuel Studio Problems\C# CODE\CHECKED LIST BOX\obj\Debug\CHECKED LIST BOX.pdb
