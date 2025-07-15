@@ -1,0 +1,10 @@
+D:\Visuel Studio Problems\C# CODE\TREE VIEW\bin\Debug\TREE VIEW.exe.config
+D:\Visuel Studio Problems\C# CODE\TREE VIEW\bin\Debug\TREE VIEW.exe
+D:\Visuel Studio Problems\C# CODE\TREE VIEW\bin\Debug\TREE VIEW.pdb
+D:\Visuel Studio Problems\C# CODE\TREE VIEW\obj\Debug\TREE VIEW.csproj.AssemblyReference.cache
+D:\Visuel Studio Problems\C# CODE\TREE VIEW\obj\Debug\TREE_VIEW.MyTreeView1.resources
+D:\Visuel Studio Problems\C# CODE\TREE VIEW\obj\Debug\TREE_VIEW.Properties.Resources.resources
+D:\Visuel Studio Problems\C# CODE\TREE VIEW\obj\Debug\TREE VIEW.csproj.GenerateResource.cache
+D:\Visuel Studio Problems\C# CODE\TREE VIEW\obj\Debug\TREE VIEW.csproj.CoreCompileInputs.cache
+D:\Visuel Studio Problems\C# CODE\TREE VIEW\obj\Debug\TREE VIEW.exe
+D:\Visuel Studio Problems\C# CODE\TREE VIEW\obj\Debug\TREE VIEW.pdb
