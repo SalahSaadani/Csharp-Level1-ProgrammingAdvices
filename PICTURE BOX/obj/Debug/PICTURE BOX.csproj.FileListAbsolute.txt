@@ -1,0 +1,10 @@
+D:\Visuel Studio Problems\C# CODE\PICTURE BOX\bin\Debug\PICTURE BOX.exe.config
+D:\Visuel Studio Problems\C# CODE\PICTURE BOX\bin\Debug\PICTURE BOX.exe
+D:\Visuel Studio Problems\C# CODE\PICTURE BOX\bin\Debug\PICTURE BOX.pdb
+D:\Visuel Studio Problems\C# CODE\PICTURE BOX\obj\Debug\PICTURE BOX.csproj.AssemblyReference.cache
+D:\Visuel Studio Problems\C# CODE\PICTURE BOX\obj\Debug\PICTURE_BOX.Form1.resources
+D:\Visuel Studio Problems\C# CODE\PICTURE BOX\obj\Debug\PICTURE_BOX.Properties.Resources.resources
+D:\Visuel Studio Problems\C# CODE\PICTURE BOX\obj\Debug\PICTURE BOX.csproj.GenerateResource.cache
+D:\Visuel Studio Problems\C# CODE\PICTURE BOX\obj\Debug\PICTURE BOX.csproj.CoreCompileInputs.cache
+D:\Visuel Studio Problems\C# CODE\PICTURE BOX\obj\Debug\PICTURE BOX.exe
+D:\Visuel Studio Problems\C# CODE\PICTURE BOX\obj\Debug\PICTURE BOX.pdb

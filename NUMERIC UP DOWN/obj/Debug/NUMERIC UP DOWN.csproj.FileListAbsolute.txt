@@ -1,0 +1,10 @@
+D:\Visuel Studio Problems\C# CODE\NUMERIC UP DOWN\bin\Debug\NUMERIC UP DOWN.exe.config
+D:\Visuel Studio Problems\C# CODE\NUMERIC UP DOWN\bin\Debug\NUMERIC UP DOWN.exe
+D:\Visuel Studio Problems\C# CODE\NUMERIC UP DOWN\bin\Debug\NUMERIC UP DOWN.pdb
+D:\Visuel Studio Problems\C# CODE\NUMERIC UP DOWN\obj\Debug\NUMERIC UP DOWN.csproj.AssemblyReference.cache
+D:\Visuel Studio Problems\C# CODE\NUMERIC UP DOWN\obj\Debug\NUMERIC_UP_DOWN.Form1.resources
+D:\Visuel Studio Problems\C# CODE\NUMERIC UP DOWN\obj\Debug\NUMERIC_UP_DOWN.Properties.Resources.resources
+D:\Visuel Studio Problems\C# CODE\NUMERIC UP DOWN\obj\Debug\NUMERIC UP DOWN.csproj.GenerateResource.cache
+D:\Visuel Studio Problems\C# CODE\NUMERIC UP DOWN\obj\Debug\NUMERIC UP DOWN.csproj.CoreCompileInputs.cache
+D:\Visuel Studio Problems\C# CODE\NUMERIC UP DOWN\obj\Debug\NUMERIC UP DOWN.exe
+D:\Visuel Studio Problems\C# CODE\NUMERIC UP DOWN\obj\Debug\NUMERIC UP DOWN.pdb

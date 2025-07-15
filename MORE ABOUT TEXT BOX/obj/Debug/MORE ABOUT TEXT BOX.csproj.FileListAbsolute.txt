@@ -1,0 +1,10 @@
+D:\Visuel Studio Problems\C# CODE\MORE ABOUT TEXT BOX\bin\Debug\MORE ABOUT TEXT BOX.exe.config
+D:\Visuel Studio Problems\C# CODE\MORE ABOUT TEXT BOX\bin\Debug\MORE ABOUT TEXT BOX.exe
+D:\Visuel Studio Problems\C# CODE\MORE ABOUT TEXT BOX\bin\Debug\MORE ABOUT TEXT BOX.pdb
+D:\Visuel Studio Problems\C# CODE\MORE ABOUT TEXT BOX\obj\Debug\MORE ABOUT TEXT BOX.csproj.AssemblyReference.cache
+D:\Visuel Studio Problems\C# CODE\MORE ABOUT TEXT BOX\obj\Debug\MORE_ABOUT_TEXT_BOX.Form1.resources
+D:\Visuel Studio Problems\C# CODE\MORE ABOUT TEXT BOX\obj\Debug\MORE_ABOUT_TEXT_BOX.Properties.Resources.resources
+D:\Visuel Studio Problems\C# CODE\MORE ABOUT TEXT BOX\obj\Debug\MORE ABOUT TEXT BOX.csproj.GenerateResource.cache
+D:\Visuel Studio Problems\C# CODE\MORE ABOUT TEXT BOX\obj\Debug\MORE ABOUT TEXT BOX.csproj.CoreCompileInputs.cache
+D:\Visuel Studio Problems\C# CODE\MORE ABOUT TEXT BOX\obj\Debug\MORE ABOUT TEXT BOX.exe
+D:\Visuel Studio Problems\C# CODE\MORE ABOUT TEXT BOX\obj\Debug\MORE ABOUT TEXT BOX.pdb
