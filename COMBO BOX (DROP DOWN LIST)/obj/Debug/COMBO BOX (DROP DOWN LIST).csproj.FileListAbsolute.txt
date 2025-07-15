@@ -1,0 +1,10 @@
+D:\Visuel Studio Problems\C# CODE\COMBO BOX (DROP DOWN LIST)\bin\Debug\COMBO BOX (DROP DOWN LIST).exe.config
+D:\Visuel Studio Problems\C# CODE\COMBO BOX (DROP DOWN LIST)\bin\Debug\COMBO BOX (DROP DOWN LIST).exe
+D:\Visuel Studio Problems\C# CODE\COMBO BOX (DROP DOWN LIST)\bin\Debug\COMBO BOX (DROP DOWN LIST).pdb
+D:\Visuel Studio Problems\C# CODE\COMBO BOX (DROP DOWN LIST)\obj\Debug\COMBO BOX (DROP DOWN LIST).csproj.AssemblyReference.cache
+D:\Visuel Studio Problems\C# CODE\COMBO BOX (DROP DOWN LIST)\obj\Debug\COMBO_BOX__DROP_DOWN_LIST_.Form1.resources
+D:\Visuel Studio Problems\C# CODE\COMBO BOX (DROP DOWN LIST)\obj\Debug\COMBO_BOX__DROP_DOWN_LIST_.Properties.Resources.resources
+D:\Visuel Studio Problems\C# CODE\COMBO BOX (DROP DOWN LIST)\obj\Debug\COMBO BOX (DROP DOWN LIST).csproj.GenerateResource.cache
+D:\Visuel Studio Problems\C# CODE\COMBO BOX (DROP DOWN LIST)\obj\Debug\COMBO BOX (DROP DOWN LIST).csproj.CoreCompileInputs.cache
+D:\Visuel Studio Problems\C# CODE\COMBO BOX (DROP DOWN LIST)\obj\Debug\COMBO BOX (DROP DOWN LIST).exe
+D:\Visuel Studio Problems\C# CODE\COMBO BOX (DROP DOWN LIST)\obj\Debug\COMBO BOX (DROP DOWN LIST).pdb
