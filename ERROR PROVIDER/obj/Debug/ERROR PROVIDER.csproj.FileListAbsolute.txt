@@ -1,0 +1,10 @@
+D:\Visuel Studio Problems\C# CODE\ERROR PROVIDER\bin\Debug\ERROR PROVIDER.exe.config
+D:\Visuel Studio Problems\C# CODE\ERROR PROVIDER\bin\Debug\ERROR PROVIDER.exe
+D:\Visuel Studio Problems\C# CODE\ERROR PROVIDER\bin\Debug\ERROR PROVIDER.pdb
+D:\Visuel Studio Problems\C# CODE\ERROR PROVIDER\obj\Debug\ERROR PROVIDER.csproj.AssemblyReference.cache
+D:\Visuel Studio Problems\C# CODE\ERROR PROVIDER\obj\Debug\ERROR_PROVIDER.Form1.resources
+D:\Visuel Studio Problems\C# CODE\ERROR PROVIDER\obj\Debug\ERROR_PROVIDER.Properties.Resources.resources
+D:\Visuel Studio Problems\C# CODE\ERROR PROVIDER\obj\Debug\ERROR PROVIDER.csproj.GenerateResource.cache
+D:\Visuel Studio Problems\C# CODE\ERROR PROVIDER\obj\Debug\ERROR PROVIDER.csproj.CoreCompileInputs.cache
+D:\Visuel Studio Problems\C# CODE\ERROR PROVIDER\obj\Debug\ERROR PROVIDER.exe
+D:\Visuel Studio Problems\C# CODE\ERROR PROVIDER\obj\Debug\ERROR PROVIDER.pdb
