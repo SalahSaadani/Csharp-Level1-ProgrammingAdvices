@@ -1,0 +1,10 @@
+D:\Visuel Studio Problems\C# CODE\DRAWING IN FORM\bin\Debug\DRAWING IN FORM.exe.config
+D:\Visuel Studio Problems\C# CODE\DRAWING IN FORM\bin\Debug\DRAWING IN FORM.exe
+D:\Visuel Studio Problems\C# CODE\DRAWING IN FORM\bin\Debug\DRAWING IN FORM.pdb
+D:\Visuel Studio Problems\C# CODE\DRAWING IN FORM\obj\Debug\DRAWING IN FORM.csproj.AssemblyReference.cache
+D:\Visuel Studio Problems\C# CODE\DRAWING IN FORM\obj\Debug\DRAWING_IN_FORM.Form1.resources
+D:\Visuel Studio Problems\C# CODE\DRAWING IN FORM\obj\Debug\DRAWING_IN_FORM.Properties.Resources.resources
+D:\Visuel Studio Problems\C# CODE\DRAWING IN FORM\obj\Debug\DRAWING IN FORM.csproj.GenerateResource.cache
+D:\Visuel Studio Problems\C# CODE\DRAWING IN FORM\obj\Debug\DRAWING IN FORM.csproj.CoreCompileInputs.cache
+D:\Visuel Studio Problems\C# CODE\DRAWING IN FORM\obj\Debug\DRAWING IN FORM.exe
+D:\Visuel Studio Problems\C# CODE\DRAWING IN FORM\obj\Debug\DRAWING IN FORM.pdb
