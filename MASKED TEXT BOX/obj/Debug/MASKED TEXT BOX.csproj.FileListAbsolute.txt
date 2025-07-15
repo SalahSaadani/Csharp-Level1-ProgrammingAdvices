@@ -1,0 +1,10 @@
+D:\Visuel Studio Problems\C# CODE\MASKED TEXT BOX\bin\Debug\MASKED TEXT BOX.exe.config
+D:\Visuel Studio Problems\C# CODE\MASKED TEXT BOX\bin\Debug\MASKED TEXT BOX.exe
+D:\Visuel Studio Problems\C# CODE\MASKED TEXT BOX\bin\Debug\MASKED TEXT BOX.pdb
+D:\Visuel Studio Problems\C# CODE\MASKED TEXT BOX\obj\Debug\MASKED TEXT BOX.csproj.AssemblyReference.cache
+D:\Visuel Studio Problems\C# CODE\MASKED TEXT BOX\obj\Debug\MASKED_TEXT_BOX.frmMaskedTextBox.resources
+D:\Visuel Studio Problems\C# CODE\MASKED TEXT BOX\obj\Debug\MASKED_TEXT_BOX.Properties.Resources.resources
+D:\Visuel Studio Problems\C# CODE\MASKED TEXT BOX\obj\Debug\MASKED TEXT BOX.csproj.GenerateResource.cache
+D:\Visuel Studio Problems\C# CODE\MASKED TEXT BOX\obj\Debug\MASKED TEXT BOX.csproj.CoreCompileInputs.cache
+D:\Visuel Studio Problems\C# CODE\MASKED TEXT BOX\obj\Debug\MASKED TEXT BOX.exe
+D:\Visuel Studio Problems\C# CODE\MASKED TEXT BOX\obj\Debug\MASKED TEXT BOX.pdb

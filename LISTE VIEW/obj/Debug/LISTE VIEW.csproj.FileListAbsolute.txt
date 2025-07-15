@@ -1,0 +1,10 @@
+D:\Visuel Studio Problems\C# CODE\LISTE VIEW\bin\Debug\LISTE VIEW.exe.config
+D:\Visuel Studio Problems\C# CODE\LISTE VIEW\bin\Debug\LISTE VIEW.exe
+D:\Visuel Studio Problems\C# CODE\LISTE VIEW\bin\Debug\LISTE VIEW.pdb
+D:\Visuel Studio Problems\C# CODE\LISTE VIEW\obj\Debug\LISTE VIEW.csproj.AssemblyReference.cache
+D:\Visuel Studio Problems\C# CODE\LISTE VIEW\obj\Debug\LISTE_VIEW.frmListView.resources
+D:\Visuel Studio Problems\C# CODE\LISTE VIEW\obj\Debug\LISTE_VIEW.Properties.Resources.resources
+D:\Visuel Studio Problems\C# CODE\LISTE VIEW\obj\Debug\LISTE VIEW.csproj.GenerateResource.cache
+D:\Visuel Studio Problems\C# CODE\LISTE VIEW\obj\Debug\LISTE VIEW.csproj.CoreCompileInputs.cache
+D:\Visuel Studio Problems\C# CODE\LISTE VIEW\obj\Debug\LISTE VIEW.exe
+D:\Visuel Studio Problems\C# CODE\LISTE VIEW\obj\Debug\LISTE VIEW.pdb
